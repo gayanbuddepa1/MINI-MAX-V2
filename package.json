@@ -1,5 +1,5 @@
 {
-  "name": "MiniMax",
+  "name": "MINI MAX",
   "version": "2.0.0",
   "description": "multi device bot by abhiram aj",
   "main": "index.js",
@@ -10,10 +10,10 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2021",
+    "2022",
     "wabase-md"
   ],
-  "author": "Abhiram-Aj.",
+  "author": "CYBERXKID.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -65,10 +65,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Abhiram-Aj/MiniMax.git"
+    "url": "git+https://github.com/CYBERXKID/MINI-MAX-V2.git"
   },
   "bugs": {
-    "url": "https://github.com/Abhiram-Aj/MiniMax/issues"
+    "url": "https://github.com/CYBERXKID/MINI-MAX-V2/issues"
   },
-  "homepage": "https://github.com/Abhiram-Aj/MiniMax#readme"
+  "homepage": "https://github.com/CYBERXKID/MINI-MAX-V2#readme"
 }
