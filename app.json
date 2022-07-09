@@ -46,7 +46,7 @@
     "ALIVE_IMAGE": {
             "description": "Set Alive Message Image",
             "required": false,
-            "value": "https://telegra.ph/file/16ae36c96eb598bd296da.jpg"
+            "value": "https://te.legra.ph/file/a836b5cd5c2c75d194a3d.jpg"
         },
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
@@ -110,7 +110,7 @@
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://telegra.ph/file/5630bdee12b13f26b07ca.jpg"
+            "value": "https://te.legra.ph/file/a836b5cd5c2c75d194a3d.jpg"
         },
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
