@@ -2,7 +2,7 @@
 	"name": "MINI MAX",
 	"description": "Fully Costamisable Bot by,Cyberxkid-Cb.",
 	"repository": "https://github.com/CYBERXKID/MINI-MAX-V2",
-	"website": "https://small-sharp-tool.com/",
+	"website": "https://minimax1niwasa.yolasite.com/",
 	"logo": "https://te.legra.ph/file/a836b5cd5c2c75d194a3d.jpg",
 	"keywords": ["multi-device","ＭＩＮＩ ＭＡＸ"],
 	"stack": "container",
@@ -51,7 +51,7 @@
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "╭═══〘 ᴍɪɴɪ ᴍᴀx 〙════⊷\n┃♡╭─────────────⊷\n┃♡│  ☆ 𝐈𝐍𝐅𝐎 ☆\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𝐌𝐀𝐗\n┃♡│\n┃♡│ 𝐎𝐖𝐍𝐄𝐑 : 𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃\n┃♡│\n┃♡│ 𝐌𝐎𝐃𝐄 : 𝐏𝐔𝐁𝐋𝐈𝐂\n┃♡│\n┃♡│ 𝐒𝐄𝐑𝐕𝐄𝐑 : 𝐇𝐄𝐑𝐎𝐊𝐔\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𖠌𝐌𝐀𝐗\n┃♡│\n┃♡│ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 2.0.0\n┃♡│\n┃♡│ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : 𝐄𝐍𝐆𝐋𝐈𝐒𝐇\n┃♡│\n┃♡╰──────────────⊷\n╰═════════════════⊷\n\n╭═════〘 sᴄʀɪᴘᴛ  〙════⊷\n┃♡╭──────────────⊷\n┃♡┃ɢɪᴛʜᴜʙ : https://Github.com/CYBERXKID/MININ-MAX-V2\n┃♡┃\n┃♡┃ᴡᴇʙsɪᴛᴇ : https://Github.com//CYBERXKID/MINI-MAX-V2\n┃♡╰──────────────⊷\n╰═════════════════⊷\n"
+            "value": "╭═══〘 ᴍɪɴɪ ᴍᴀx 〙════⊷\n┃♡╭─────────────⊷\n┃♡│  ☆ 𝐈𝐍𝐅𝐎 ☆\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𝐌𝐀𝐗\n┃♡│\n┃♡│ 𝐎𝐖𝐍𝐄𝐑 : 𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃\n┃♡│\n┃♡│ 𝐌𝐎𝐃𝐄 : 𝐏𝐔𝐁𝐋𝐈𝐂\n┃♡│\n┃♡│ 𝐒𝐄𝐑𝐕𝐄𝐑 : 𝐇𝐄𝐑𝐎𝐊𝐔\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𖠌𝐌𝐀𝐗\n┃♡│\n┃♡│ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 2.0.0\n┃♡│\n┃♡│ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : 𝐄𝐍𝐆𝐋𝐈𝐒𝐇\n┃♡│\n┃♡╰──────────────⊷\n╰═════════════════⊷\n\n╭═════〘 sᴄʀɪᴘᴛ  〙════⊷\n┃♡╭──────────────⊷\n┃♡┃ɢɪᴛʜᴜʙ : https://Github.com/CYBERXKID/MININ-MAX-V2\n┃♡┃\n┃♡┃ᴡᴇʙsɪᴛᴇ : https://minimax1niwasa.yolasite.com\n┃♡╰──────────────⊷\n╰═════════════════⊷\n"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
