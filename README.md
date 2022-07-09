@@ -5,3 +5,18 @@
   
 #  ◍ 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝙼𝙳  ◍ 
 
+
+# 𖠌𝙷𝙾𝚆 𝚃𝙾 𝙳𝙴𝙿𝙻𝙾𝚈 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇𖠌
+
+[1] 𝙵𝙾𝚁𝙺 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚁𝙴𝙿𝙾
+
+[2]𝙲𝚁𝙴𝙰𝚃𝙴 𝙷𝙴𝚁𝙾𝙺𝚄 𝙰𝙲𝙲𝙾𝚄𝙽𝚃
+
+[3]𝚂𝙲𝙰𝙽 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚀𝚁 𝙲𝙾𝙳𝙴
+
+[3]𝚃𝙰𝙿 𝙳𝙴𝙿𝙻𝙾𝚈 𝙱𝚄𝚃𝚃𝙾𝙽
+
+[4]𝚃𝙷𝙴𝙽 𝙵𝙸𝙻𝙻 𝙾𝙽 𝚃𝙷𝙴 𝙴𝙼𝙿𝚃𝚈 𝙿𝙰𝙶𝙴𝚂 𝙽𝙴𝚇𝚃 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/MINI-MAX-V2)
+
