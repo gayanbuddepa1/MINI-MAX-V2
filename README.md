@@ -18,5 +18,12 @@
 
   𝚃𝙷𝙴𝙽 𝙵𝙸𝙻𝙻 𝙾𝙽 𝚃𝙷𝙴 𝙴𝙼𝙿𝚃𝚈 𝙿𝙰𝙶𝙴𝚂 𝙽𝙴𝚇𝚃 𝙾𝙽 𝙷𝙴𝚁𝙾𝙺𝚄
 
+    𖠌𝚂𝙲𝙰𝙽 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚀𝚁𖠌
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/QueenAlexaQrCode)
+  
+
+    𖠌𝙳𝙴𝙿𝙻𝙾𝚈 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇𖠌
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/MINI-MAX-V2)
 
