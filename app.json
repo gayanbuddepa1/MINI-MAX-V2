@@ -1,7 +1,7 @@
 {
-	"name": "MiniMax",
+	"name": "MINI MAX",
 	"description": "Fully Costamisable Bot by,Abhiram-Aj.",
-	"repository": "https://github.com/Abhiram-Aj/MiniMax",
+	"repository": "https://github.com/CYBERXKID/MINI-MAX-V2",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/95849340?v=4",
 	"keywords": ["multi-device","ＭＩＮＩ ＭＡＸ"],
@@ -10,12 +10,12 @@
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "919605101516"
+            "value": "27686881509"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "MiniMax"
+            "value": "MINIMAX"
         }, 
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
@@ -25,7 +25,7 @@
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Abhiram Aj"
+            "value": "CYBERXKID"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -51,7 +51,7 @@
 	"ALIVE_MESS": {
             "description": "Set Alive Message. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "╭═══〘 ᴍɪɴɪ ᴍᴀx 〙════⊷\n┃♡╭─────────────⊷\n┃♡│      ☆ 𝙄𝙉𝙁𝙊 ☆\n┃♡│\n┃♡│ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 : 𝙈𝙞𝙣𝙞𝙈𝙖𝙭\n┃♡│\n┃♡│          𝙊𝙬𝙣𝙚𝙧 : 𝘼𝙗𝙝𝙞𝙧𝙖𝙢 𝘼𝙟\n┃♡│\n┃♡│ 𝙈𝙤𝙙𝙚 : 𝙋𝙪𝙗𝙡𝙞𝙘\n┃♡│\n┃♡│         𝙎𝙚𝙧𝙫𝙚𝙧 : 𝙃𝙚𝙧𝙤𝙠𝙪\n┃♡│\n┃♡│ 𝘽𝙤𝙩 𝙉𝙖𝙢𝙚 : 𝙈𝙞𝙣𝙞𝙈𝙖𝙭\n┃♡│\n┃♡│        𝙑𝙚𝙧𝙨𝙞𝙤𝙣 : 2.0.0\n┃♡│\n┃♡│ 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 : 𝙀𝙣𝙜𝙡𝙞𝙨𝙝\n┃♡│\n┃♡╰──────────────⊷\n╰═════════════════⊷\n\n╭═════〘 sᴄʀɪᴘᴛ  〙════⊷\n┃♡╭──────────────⊷\n┃♡┃ɢɪᴛʜᴜʙ : https://bit.ly/MiniMaxBot\n┃♡┃\n┃♡┃ᴡᴇʙsɪᴛᴇ : https://bit.ly/MiniMaxWebpage\n┃♡╰──────────────⊷\n╰═════════════════⊷\n"
+            "value": "╭═══〘 ᴍɪɴɪ ᴍᴀx 〙════⊷\n┃♡╭─────────────⊷\n┃♡│      ☆ 𝐈𝐍𝐅𝐎 ☆\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𝐌𝐀𝐗\n┃♡│\n┃♡│          𝐎𝐖𝐍𝐄𝐑 : 𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃\n┃♡│\n┃♡│ 𝐌𝐎𝐃𝐄 : 𝐏𝐔𝐁𝐋𝐈𝐂\n┃♡│\n┃♡│         𝐒𝐄𝐑𝐕𝐄𝐑 : 𝐇𝐄𝐑𝐎𝐊𝐔\n┃♡│\n┃♡│ 𝐁𝐎𝐓 𝐍𝐀𝐌𝐄 : 𝐌𝐈𝐍𝐈𝐌𝐀𝐗\n┃♡│\n┃♡│        𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 2.0.0\n┃♡│\n┃♡│ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄 : 𝐄𝐍𝐆𝐋𝐈𝐒𝐇\n┃♡│\n┃♡╰──────────────⊷\n╰═════════════════⊷\n\n╭═════〘 sᴄʀɪᴘᴛ  〙════⊷\n┃♡╭──────────────⊷\n┃♡┃ɢɪᴛʜᴜʙ : https://Github.com/CYBERXKID/MININ-MAX-V2\n┃♡┃\n┃♡┃ᴡᴇʙsɪᴛᴇ : https://Github.com//CYBERXKID/MINI-MAX-V2\n┃♡╰──────────────⊷\n╰═════════════════⊷\n"
         }, 
 	"OWNER_MESS": {
             "description": "Set Owner message. (leave it if you Wish to use the default)",
@@ -80,27 +80,27 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "sachuabhiram57@gmail.com"
+            "value": "amdablack63@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
             "required": false,
-            "value": "https://youtube.com/channel/UCD_J5bEYpfj_CNYBGJhvnwQ"
+            "value": "https://youtube.com/c/CYBERXKID"
         },
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Abhiram-Aj/"
+            "value": "https://github.com/CYBERXKID/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/X_Abhiram_Aj_X/"
+            "value": "https://www.instagram.com/CYBERXKID/"
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝘽𝙃𝙄𝙍𝘼𝙈 𝘼𝙅"
+            "value": "𝐂𝐘𝐁𝐄𝐑𝐗𝐊𝐈𝐃"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
@@ -120,12 +120,12 @@
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://www.instagram.com/X_Abhiram_Aj_X/"
+            "value": "https://www.instagram.com/CYBERXKID/"
         },
     "BUTTONURL_LINK2": {
             "description": "Second URL Button Id/Link (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Abhiram-Aj/"
+            "value": "https://github.com/CYBERXKID/"
         },
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
@@ -135,7 +135,7 @@
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
             "required": false,
-            "value": "ɢɪᴛʜᴜʙ"
+            "value": "ɢɪᴛʜᴜʙ."
         },
     "LIST_HEAD": {
             "description": "Hedding Message For List Menu (leave it if you Wish to use the default)",
