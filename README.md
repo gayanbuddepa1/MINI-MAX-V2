@@ -20,7 +20,7 @@
 
     𖠌𝚂𝙲𝙰𝙽 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇 𝚀𝚁𖠌
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/QueenAlexaQrCode)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/MINI-MAX-V2-QR-CODE?v=1?outputonly=1&lite=1#index.js)
   
 
     𖠌𝙳𝙴𝙿𝙻𝙾𝚈 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇𖠌
