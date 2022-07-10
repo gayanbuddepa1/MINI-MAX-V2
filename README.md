@@ -27,3 +27,5 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/MINI-MAX-V2)
 
+<a href="https://abhiram-aj.github.io/MiniMax-Web/videonormal.html"><img align="center" src="https://telegra.ph/file/ee726e70e8f7ade54d434.png" alt="Server two" height="100" width="300" /></a>
+<br>
