@@ -27,5 +27,5 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/MINI-MAX-V2)
 
-<a href="https://CYBERXKID.github.io/MINI-MAX-V2-Web/Deployon.html"><img align="center" src="https://te.legra.ph/file/c1a9c4eecd66a0ce8e9b8.jpg" alt="Server two" height="100" width="400" /></a>
+<a href="https://CYBERXKID.github.io/MINI-MAX-V2-Web/Deployone.html"><img align="center" src="https://te.legra.ph/file/c1a9c4eecd66a0ce8e9b8.jpg" alt="Server two" height="100" width="400" /></a>
 <br>
