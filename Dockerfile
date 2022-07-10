@@ -14,7 +14,7 @@ RUN apt-get update && \
   
 RUN npm install -g npm@8.10.0
 
-RUN yarn install --no-audit
+RUN yarn install --ignore-engines
 
 RUN npm i -g heroku
 
