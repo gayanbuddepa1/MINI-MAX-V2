@@ -1,8 +1,8 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/CYBERXKID/MINI-MAX-V2 /root/CYBERXKID
+RUN git clone https://github.com/CYBERXKID/MINI-MAX-V2 /root/MINI-MAX-V2
 
-WORKDIR /root/CYBERXKID/
+WORKDIR /root/MINI-MAX-V2/
 
 RUN apt-get update && \
   apt-get install -y \
