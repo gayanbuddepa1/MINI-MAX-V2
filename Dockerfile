@@ -1,5 +1,9 @@
 FROM node:lts-buster
 
+RUN git clone https://github.com/CYBERXKID/MINI-MAX-V2 /root/CYBERXKID
+
+WORKDIR /root/AbhiramAj/
+
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
@@ -7,11 +11,11 @@ RUN apt-get update && \
   webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
+  
+RUN npm install -g npm@8.10.0
 
-COPY package.json .
+RUN yarn install --no-audit
 
-RUN npm install
+RUN npm i -g heroku
 
-COPY . .
-
-CMD ["node", "."]
+CMD ["node", "index.js"]
