@@ -26,16 +26,3 @@
     𖠌𝙳𝙴𝙿𝙻𝙾𝚈 𝙼𝙸𝙽𝙸 𝙼𝙰𝚇𖠌
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/MINI-MAX-V2)
-
-<a href="https://CYBERXKID.github.io/MINI-MAX-V2-Web/Deployone.html"><img align="center" src="https://te.legra.ph/file/c1a9c4eecd66a0ce8e9b8.jpg" alt="Server two" height="100" width="400" /></a>
-
-
-  <center>
-<a href="https://replit.com/@zenoi/Garfield-Whatsapp-Bot-Multidevice-Linker-v80?v=1outputonly=1&lite=1"><img src="/Cloud/PicsArt_22-04-16_22-52-38-348.png"></center>
-<br>
-   <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="https://te.legra.ph/file/c1a9c4eecd66a0ce8e9b8.jpg">
-<br>
-
-
-
